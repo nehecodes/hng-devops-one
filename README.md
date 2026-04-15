@@ -26,7 +26,7 @@ This project demonstrates:
 
 ---
 
-## 🧪 Run Locally
+##  Run Locally
 
 ### 1. Clone the repository
 
